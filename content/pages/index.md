@@ -135,6 +135,7 @@ sections:
           *   Java
           *   HTML
           *   Python
+          *   C++
           *   Artificial Intelligence (Basics)
           *   Data Structures & Algorithms (Python,Java)
           ```
