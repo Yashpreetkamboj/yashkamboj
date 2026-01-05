@@ -101,13 +101,16 @@ sections:
         title: 🔹 Google Student Ambassador (Present)
         subtitle: Google
         text: >+
-          *   *   Representing Google at the student level*   Promoting Google
-          programs, technologies, and learning initiatives*   Engaging with
-          students through tech awareness and community activities
 
 
+          *   Representing Google at the student level
 
 
+          *   Promoting Google programs, technologies, and learning initiatives
+
+
+          *   Engaging with students through tech awareness and community
+          activities
 
         actions:
           - type: Button
