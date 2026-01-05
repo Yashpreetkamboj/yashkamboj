@@ -99,7 +99,7 @@ sections:
             textAlign: left
       - type: FeaturedItem
         title: 🔹 Google Student Ambassador (Present)
-        subtitle: ''
+        subtitle: Google
         text: >-
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ante
           lorem, tincidunt ac leo efficitur, feugiat tempor odio. Maecenas
