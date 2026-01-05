@@ -37,7 +37,7 @@ sections:
     type: HeroSection
     actions: []
   - type: TextSection
-    title: The Section Title
+    title: EDUCATION
     text: |+
 
 
