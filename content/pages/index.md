@@ -130,15 +130,17 @@ sections:
       - type: FeaturedItem
         title: I'm Fast
         subtitle: ''
-        text: |
+        text: |+
           ```
+          *   Java
+          *   HTML
+          *   Python
+          *   Artificial Intelligence (Basics)
+          *   Data Structures & Algorithms (Python,Java)
+
+
           ```
 
-          \*   Java
-          \*   HTML
-          \*   Python
-          \*   Artificial Intelligence (Basics)
-          \*   Data Structures & Algorithms (Python,Java)
         actions:
           - type: Button
             label: ''
