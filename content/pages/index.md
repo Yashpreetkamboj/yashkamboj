@@ -38,13 +38,17 @@ sections:
     actions: []
   - type: TextSection
     title: 🎓 Education
-    text: >-
-      Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium
-      doloremque laudantium, totam rem aperiam. Eaque ipsa quae ab illo
-      inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.
-      Sed ut perspiciatis undeomnis iste natus error sit voluptatem accusantium
-      doloremque laudantium, totam rem aperiam. Eaque ipsa quae ab illo
-      inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.
+    text: |+
+      *   *   **B.Tech in Computer Science & Engineering**
+              *Uttaranchal University, Dehradun (UK)*
+              **Batch:** 2024 – Present*   **Class XII (CBSE)** – 71.8%
+              *The Genius School, Rania, Sirsa (HR)* | 2024*   **Class X (CBSE)** – 85.8%
+              *The Genius School, Rania, Sirsa (HR)* | 2022
+
+
+
+
+
     colors: colors-f
     variant: variant-a
     elementId: ''
