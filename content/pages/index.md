@@ -73,8 +73,7 @@ sections:
     showFeaturedImage: true
     showReadMoreLink: true
     variant: variant-b
-    projects:
-      - content/pages/projects/Coding-Junior.md
+    projects: []
     styles:
       self:
         height: auto
