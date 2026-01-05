@@ -65,7 +65,7 @@ sections:
           - pr-4
         textAlign: left
   - type: FeaturedItemsSection
-    title: Value propositions
+    title: ''
     items:
       - type: FeaturedItem
         title: I'm Fast
