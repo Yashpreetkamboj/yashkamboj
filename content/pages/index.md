@@ -84,7 +84,7 @@ sections:
           - pl-4
           - pr-4
         textAlign: left
-    subtitle: ''
+    subtitle: 🔹 Artificial Intelligence Intern
     title: 💼 Experience
   - type: FeaturedPostsSection
     elementId: ''
