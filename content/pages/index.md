@@ -69,7 +69,7 @@ sections:
     items:
       - type: FeaturedItem
         title: 🔹 Artificial Intelligence Intern
-        subtitle: ''
+        subtitle: Coding Junior
         text: >-
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ante
           lorem, tincidunt ac leo efficitur, feugiat tempor odio. Maecenas
