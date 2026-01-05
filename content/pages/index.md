@@ -85,6 +85,7 @@ sections:
           - pr-4
         textAlign: left
     subtitle: ''
+    title: 💼 Experience
   - type: FeaturedPostsSection
     elementId: ''
     colors: colors-f
