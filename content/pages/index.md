@@ -83,16 +83,7 @@ sections:
           *   Improved problem-solving and logical thinking through guided
           projects
 
-        actions:
-          - type: Button
-            label: ''
-            altText: ''
-            url: /
-            showIcon: true
-            icon: arrowRight
-            iconPosition: right
-            style: primary
-            elementId: ''
+        actions: []
         elementId: ''
         styles:
           self:
