@@ -70,10 +70,16 @@ sections:
       - type: FeaturedItem
         title: 🔹 Artificial Intelligence Intern
         subtitle: Coding Junior
-        text: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ante
-          lorem, tincidunt ac leo efficitur, feugiat tempor odio. Maecenas
-          pharetra ipsum dolor, et iaculis elit ornare ac.
+        text: >+
+          *   *   Worked on fundamentals of **Artificial Intelligence***  
+          Gained hands-on experience with AI concepts and basic
+          implementations*   Improved problem-solving and logical thinking
+          through guided projects
+
+
+
+
+
         actions:
           - type: Button
             label: ''
