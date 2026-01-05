@@ -146,7 +146,7 @@ sections:
           self:
             textAlign: left
       - type: FeaturedItem
-        title: 🤖 Projects & Technical Experience
+        title: ''
         subtitle: ''
         text: ''
         elementId: ''
