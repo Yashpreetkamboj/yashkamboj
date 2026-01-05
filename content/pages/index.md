@@ -130,15 +130,13 @@ sections:
       - type: FeaturedItem
         title: I'm Fast
         subtitle: ''
-        text: >+
-          *   *   **Python***   **HTML***   **Artificial Intelligence
-          (Basics)***   **Data Structures & Algorithms (Python)**
-
-                  *   Stack and Queue implementation
-
-
-
-
+        text: |+
+          *   ****
+              *   **Java**
+              *   **HTML**
+              *   **Python**
+              *   **Artificial Intelligence (Basics)**
+              *   **Data Structures & Algorithms (Python,Java)**
 
         featuredImage:
           type: ImageBlock
