@@ -128,7 +128,7 @@ sections:
     title: 💻 Skills
     items:
       - type: FeaturedItem
-        title: I'm Fast
+        title: ''
         subtitle: ''
         text: |+
           ```
