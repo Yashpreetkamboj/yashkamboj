@@ -84,7 +84,12 @@ sections:
           - pl-4
           - pr-4
         textAlign: left
-    subtitle: 🔹 Artificial Intelligence Intern
+    subtitle: >-
+      🔹 Artificial Intelligence Intern Coding Junior                       
+      Worked on fundamentals of Artificial Intelligence                Gained
+      hands-on experience with AI concepts and basic
+      implementations                  Improved problem-solving and logical
+      thinking through guided projects
     title: 💼 Experience
   - type: FeaturedPostsSection
     elementId: ''
