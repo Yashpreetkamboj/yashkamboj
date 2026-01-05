@@ -71,14 +71,17 @@ sections:
         title: 🔹 Artificial Intelligence Intern
         subtitle: Coding Junior
         text: >+
-          *   *   Worked on fundamentals of **Artificial Intelligence***  
-          Gained hands-on experience with AI concepts and basic
-          implementations*   Improved problem-solving and logical thinking
-          through guided projects
 
 
+          *   Worked on fundamentals of **Artificial Intelligence**
 
 
+          *   Gained hands-on experience with AI concepts and basic
+          implementations
+
+
+          *   Improved problem-solving and logical thinking through guided
+          projects
 
         actions:
           - type: Button
