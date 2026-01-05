@@ -100,10 +100,15 @@ sections:
       - type: FeaturedItem
         title: 🔹 Google Student Ambassador (Present)
         subtitle: Google
-        text: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ante
-          lorem, tincidunt ac leo efficitur, feugiat tempor odio. Maecenas
-          pharetra ipsum dolor, et iaculis elit ornare ac.
+        text: >+
+          *   *   Representing Google at the student level*   Promoting Google
+          programs, technologies, and learning initiatives*   Engaging with
+          students through tech awareness and community activities
+
+
+
+
+
         actions:
           - type: Button
             label: ''
