@@ -39,15 +39,17 @@ sections:
   - type: TextSection
     title: The Section Title
     text: |+
-      *   *   **B.Tech in Computer Science & Engineering**
-              *Uttaranchal University, Dehradun (UK)*
-              **Batch:** 2024 – Present*   **Class XII (CBSE)** – 71.8%
-              *The Genius School, Rania, Sirsa (HR)* | 2024*   **Class X (CBSE)** – 85.8%
-              *The Genius School, Rania, Sirsa (HR)* | 2022
 
 
+      *   **B.Tech in Computer Science & Engineering**
+          *Uttaranchal University, Dehradun (UK)*
+          **Batch:** 2024 – Present
 
+      *   \*   **Class XII (CBSE)** – 71.8%
+          *The Genius School, Rania, Sirsa (HR)* | 2024
 
+      *   \*   **Class X (CBSE)** – 85.8%
+          *The Genius School, Rania, Sirsa (HR)* | 2022
 
     colors: colors-f
     variant: variant-a
