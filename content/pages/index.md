@@ -13,7 +13,9 @@ sections:
   - elementId: ''
     colors: colors-f
     backgroundSize: full
-    title: Hi, I’m Yashpreet Kamboj, a B.Tech Computer Science & Engineering student
+    title: >-
+      Hi, I’m Yashpreet Kamboj, a B.Tech Computer Science & Engineering student
+      with a strong interest programming, robotics, and problem-solving
     subtitle: >-
       My journey with technology started in school, where I actively worked on
       robotics projects, algorithms, and competitive tech events. I enjoy
