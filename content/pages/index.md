@@ -68,7 +68,7 @@ sections:
     title: Value propositions
     items:
       - type: FeaturedItem
-        title: ''
+        title: 🔹 Artificial Intelligence Intern
         subtitle: ''
         text: >-
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ante
