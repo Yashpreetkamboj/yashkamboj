@@ -10,32 +10,6 @@ backgroundImage:
   backgroundRepeat: no-repeat
   opacity: 75
 sections:
-  - elementId: ''
-    colors: colors-f
-    backgroundSize: full
-    title: "Hi, I’m Yashpreet Kamboj, a B.Tech Computer Science & Engineering student with a strong interest in\_ programming, robotics, and problem-solving"
-    subtitle: >-
-      My journey with technology started in school, where I actively worked on
-      robotics projects, algorithms, and competitive tech events. I enjoy
-      learning continuously and experimenting with new tools and libraries
-    styles:
-      self:
-        height: auto
-        width: wide
-        margin:
-          - mt-0
-          - mb-0
-          - ml-0
-          - mr-0
-        padding:
-          - pt-36
-          - pb-48
-          - pl-4
-          - pr-4
-        flexDirection: row-reverse
-        textAlign: left
-    type: HeroSection
-    actions: []
   - type: TextSection
     title: EDUCATION
     text: |+
@@ -64,6 +38,32 @@ sections:
           - pl-4
           - pr-4
         textAlign: left
+  - elementId: ''
+    colors: colors-f
+    backgroundSize: full
+    title: "Hi, I’m Yashpreet Kamboj, a B.Tech Computer Science & Engineering student with a strong interest in\_ programming, robotics, and problem-solving"
+    subtitle: >-
+      My journey with technology started in school, where I actively worked on
+      robotics projects, algorithms, and competitive tech events. I enjoy
+      learning continuously and experimenting with new tools and libraries
+    styles:
+      self:
+        height: auto
+        width: wide
+        margin:
+          - mt-0
+          - mb-0
+          - ml-0
+          - mr-0
+        padding:
+          - pt-36
+          - pb-48
+          - pl-4
+          - pr-4
+        flexDirection: row-reverse
+        textAlign: left
+    type: HeroSection
+    actions: []
   - colors: colors-f
     type: FeaturedProjectsSection
     elementId: ''
